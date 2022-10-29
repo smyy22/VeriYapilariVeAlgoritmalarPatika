@@ -40,3 +40,8 @@ Best Case: 2
 - [2,3,4,5,6,7,8,15,9]
 - [2,3,4,5,6,7,8,9,15]
 
+
+
+[<img height="100" width="100" float=right src="https://user-images.githubusercontent.com/96207103/198125546-1781beae-32dc-446c-bfa1-2a55fceff0bf.jpg"/>][patikadev]
+
+[patikadev]:https://www.patika.dev/tr
