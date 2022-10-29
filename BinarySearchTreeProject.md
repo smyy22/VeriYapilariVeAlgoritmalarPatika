@@ -25,3 +25,9 @@
 **Adım 10:** 2 3'ün soluna yazıyoruz.
 
 ![7](https://user-images.githubusercontent.com/96207103/198121532-042ba1ad-8358-4d5b-b5f7-9fbc8956d573.png)
+
+
+
+[<img height="100" width="100" float=right src="https://user-images.githubusercontent.com/96207103/198125546-1781beae-32dc-446c-bfa1-2a55fceff0bf.jpg"/>][patikadev]
+
+[patikadev]:https://www.patika.dev/tr
